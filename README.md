@@ -1,8 +1,8 @@
 # Soroban Pioneer Quest <!-- omit in toc -->
 
-![Stellar-Quest-email](https://user-images.githubusercontent.com/4383610/200077219-de8e1f20-9878-4705-bec6-ced9a3904694.jpg)
+![Stellar-Quest-email][series-5-img]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)][gitpod]
+[![Open in Gitpod][gp-btn]][gitpod]
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -210,7 +210,7 @@ Now that you're (at least somewhat) familiar with the lay of the land, you're
 ready to get questing! Open up that Gitpod, and get to work! Most importantly,
 have fun!!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)][gitpod]
+[![Open in Gitpod][gp-btn]][gitpod]
 
 ## Join us on Discord
 
@@ -230,6 +230,8 @@ you to **Tinker and Earn** XLM with Soroban! Many of the people who are
 _creating_ the Soroban platform are there, and willing to answer questions, too!
 Talk about "straight from the horse's mouth"!!
 
+[series-5-img]: https://user-images.githubusercontent.com/4383610/200077219-de8e1f20-9878-4705-bec6-ced9a3904694.jpg
+[gp-btn]: https://gitpod.io/button/open-in-gitpod.svg
 [gitpod]: https://gitpod.io/#ENV=prod/https://github.com/stellar/soroban-quest--pioneer
 [gp-cli]: https://www.gitpod.io/docs/references/gitpod-cli
 [rust]: https://www.rust-lang.org/
